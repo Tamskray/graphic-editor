@@ -1,0 +1,11 @@
+D:\C#\Курсове проектування\Графічний редактор\Graphics editor\Graphics editor\bin\Debug\Graphics editor.exe.config
+D:\C#\Курсове проектування\Графічний редактор\Graphics editor\Graphics editor\bin\Debug\Graphics editor.exe
+D:\C#\Курсове проектування\Графічний редактор\Graphics editor\Graphics editor\bin\Debug\Graphics editor.pdb
+D:\C#\Курсове проектування\Графічний редактор\Graphics editor\Graphics editor\obj\Debug\Graphics editor.csprojAssemblyReference.cache
+D:\C#\Курсове проектування\Графічний редактор\Graphics editor\Graphics editor\obj\Debug\Graphics_editor.Form1.resources
+D:\C#\Курсове проектування\Графічний редактор\Graphics editor\Graphics editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+D:\C#\Курсове проектування\Графічний редактор\Graphics editor\Graphics editor\obj\Debug\Graphics editor.csproj.GenerateResource.cache
+D:\C#\Курсове проектування\Графічний редактор\Graphics editor\Graphics editor\obj\Debug\Graphics editor.csproj.CoreCompileInputs.cache
+D:\C#\Курсове проектування\Графічний редактор\Graphics editor\Graphics editor\obj\Debug\Graphics editor.exe
+D:\C#\Курсове проектування\Графічний редактор\Graphics editor\Graphics editor\obj\Debug\Graphics editor.pdb
+D:\C#\Курсове проектування\Графічний редактор\Graphics editor\Graphics editor\obj\Debug\Graphics_editor.Form2.resources
